@@ -4,6 +4,6 @@
 2、 支持自定义下载进度的颜色
 
 截图：
-![image]https//:github.com/xuanu/ProgressButton/raw/master/screenshots/Screenshot_20160827-225400.png
-![image]https//:github.com/xuanu/ProgressButton/raw/master/screenshots/Screenshot_20160827-225404.png
+![image](https//:github.com/xuanu/ProgressButton/raw/master/screenshots/Screenshot_20160827-225400.png)
+![image](https//:github.com/xuanu/ProgressButton/raw/master/screenshots/Screenshot_20160827-225404.png)
 
