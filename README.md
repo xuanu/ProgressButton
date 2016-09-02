@@ -15,13 +15,16 @@ allprojects {
 			maven { url "https://jitpack.io" }
 		}
 	}
-	```
+	
+```
 #####2、工程的build.gradle中添加   
+
 ```
 dependencies {
 	        compile 'com.github.xuanu:ProgressButton:0.0.1'
 	}
-	```
+```
+
 	
 #####3、支持自定义背景颜色属性：app:border_color    
 
